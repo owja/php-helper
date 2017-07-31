@@ -1,0 +1,23 @@
+{
+  "name": "owja/php-helper",
+  "description": "Simple php helper classes and functions.",
+  "keywords": [ "php", "helper" ],
+  "type" : "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hauke Broer",
+      "email": "info@owja.de"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=6.1.0"
+  },
+  "autoload": {
+    "psr-4": { "Owja\\Helper\\": "src" }
+  }
+}
