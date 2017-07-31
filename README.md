@@ -1,7 +1,6 @@
 # OWJA! PHP Helper
 
 [![Latest Stable Version](https://poser.pugx.org/owja/php-helper/v/stable)](https://packagist.org/packages/owja/php-helper)
-[![Travis](https://travis-ci.org/owja/php-helper.svg?branch=master)](https://travis-ci.org/owja/php-helper.svg?branch=master&format=flat-square)
 [![License](https://poser.pugx.org/owja/php-helper/license)](https://packagist.org/packages/owja/php-helper)
 [![Build Status](https://travis-ci.org/owja/php-helper.svg?branch=master)](https://travis-ci.org/owja/php-helper)
 
